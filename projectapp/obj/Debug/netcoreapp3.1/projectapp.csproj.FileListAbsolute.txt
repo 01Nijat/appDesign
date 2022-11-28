@@ -1,0 +1,45 @@
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.exe
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.deps.json
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.runtimeconfig.json
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.dll
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.pdb
+C:\Users\ASUS\source\repos\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.dll
+C:\Users\ASUS\source\repos\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.pdb
+C:\Users\ASUS\source\repos\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Utilies.dll
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Utilies.pdb
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\ASUS\source\repos\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.dll
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.pdb
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.exe
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.deps.json
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.runtimeconfig.json
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.dll
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\projectapp.pdb
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Utilies.dll
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Utilies.pdb
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.csproj.CopyComplete
+C:\Users\ASUS\Desktop\visual work\akademiacore\projectapp\obj\Debug\netcoreapp3.1\projectapp.genruntimeconfig.cache
